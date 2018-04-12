@@ -1,2 +1,4 @@
 *.swp
 settings_secret.py
+__pycache__/
+*.py[cod]
